@@ -1,3 +1,5 @@
+# Compiled bundled build is in react-vr-game.zip.  Unzip and deploy these files.  Contents of repo is the source code.
+
 # Answer Key
 
 ## Step 1
