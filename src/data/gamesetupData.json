@@ -1,0 +1,38 @@
+[
+  {
+    images: [0,1,2,3,4,5,6,7],
+    text: [0,1,2,3,8,9,10,11],
+    stepbase: {
+      coords: { x: 0, y: 0, z: 0 },
+      floorcolor: '#AB9D83',
+      directions: 'Choose all the text and images which have a pair'
+    },
+    answer: [
+      'txt_man', 'txt_woman', 'txt_boy', 'txt_girl', 'img_man', 'img_woman', 'img_boy', 'img_girl'
+    ]
+  },
+  {
+    images: [8,9,10,11,12,13,14,15],
+    text: [4,5,6,7,12,13,14,15],
+    stepbase: {
+      coords: { x: 0, y: 0, z: -15 },
+      floorcolor: '#E5D6C2',
+      directions: 'Choose all the text and images which have a pair'
+    },
+    answer: [
+      'txt_speak', 'txt_kitchen', 'txt_diningroom', 'txt_bathroom', 'img_speak', 'img_kitchen', 'img_diningroom', 'img_bathroom'
+    ]
+  },
+  {
+    images: [0,1,2,3,8,9,10,11],
+    text: [4,5,6,7,8,9,10,11],
+    stepbase: {
+      coords: { x: 0, y: 0, z: -30 },
+      floorcolor: '#8F6B53',
+      directions: 'Choose all the text and images which have a pair'
+    },
+    answer: [
+      'txt_cook', 'txt_eat', 'txt_drink', 'txt_write', 'img_cook', 'img_eat', 'img_drink', 'img_write'
+    ]
+  }
+]

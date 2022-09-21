@@ -1,0 +1,66 @@
+[
+  {
+    'en' : 'man',
+    'es' : 'hombre'
+  },
+  {
+    'en' : 'woman',
+    'es' : 'mujer'
+  },
+  {
+    'en' : 'girl',
+    'es' : 'niña'
+  },
+  {
+    'en' : 'boy',
+    'es' : 'niño'
+  },
+  {
+    'en' : 'swim',
+    'es' : 'nadar'
+  },
+  {
+    'en' : 'sleep',
+    'es' : 'dormir'
+  },
+  {
+    'en' : 'run',
+    'es' : 'correr'
+  },
+  {
+    'en' : 'read',
+    'es' : 'leer'
+  },
+  {
+    'en' : 'cook',
+    'es' : 'cocinar'
+  },
+  {
+    'en' : 'eat',
+    'es' : 'comer'
+  },
+  {
+    'en' : 'drink',
+    'es' : 'beber'
+  },
+  {
+    'en' : 'write',
+    'es' : 'escribir'
+  },
+  {
+    'en' : 'speak',
+    'es' : 'hablar'
+  },
+  {
+    'en' : 'kitchen',
+    'es' : 'cocina'
+  },
+  {
+    'en' : 'diningroom',
+    'es' : 'comedor'
+  },
+  {
+    'en' : 'bathroom',
+    'es' : 'baño'
+  }
+]

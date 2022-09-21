@@ -1,0 +1,162 @@
+[
+  {
+    coords: { x: 0, y: -0.5, z: 2 }, // relative to stepbase
+    height: 0.0,
+    opacity: 0.5,
+    rotateY: 180,
+    physicalHeight: 0.2,
+    physicalWidth: 0.2,
+    physicalDepth: 0.2,
+    color: '#FFFFFF',
+  },
+  {
+    coords: { x: -2, y: -0.5, z: 0 }, // relative to stepbase
+    height: 0.0,
+    opacity: 0.5,
+    rotateY: 90,
+    physicalHeight: 0.2,
+    physicalWidth: 0.2,
+    physicalDepth: 0.2,
+    color: '#FFFFFF',
+  },
+  {
+    coords: { x: 2, y: -0.5, z: 0 }, // relative to stepbase
+    height: 0.0,
+    opacity: 0.5,
+    rotateY: 270,
+    physicalHeight: 0.2,
+    physicalWidth: 0.2,
+    physicalDepth: 0.2,
+    color: '#FFFFFF',
+  },
+  {
+    coords: { x: 1.3, y: -0.5, z: -1.3 }, // relative to stepbase
+    height: 0.0,
+    opacity: 0.5,
+    rotateY: 315,
+    physicalHeight: 0.2,
+    physicalWidth: 0.2,
+    physicalDepth: 0.2,
+    color: '#FFFFFF',
+  },
+  {
+    coords: { x: 0, y: -0.5, z: -2 }, // relative to stepbase
+    height: 0.0,
+    opacity: 0.5,
+    rotateY: 0,
+    physicalHeight: 0.2,
+    physicalWidth: 0.2,
+    physicalDepth: 0.2,
+    color: '#FFFFFF',
+  },
+  {
+    coords: { x: -1.3, y: -0.5, z: -1.3 }, // relative to stepbase
+    height: 0.0,
+    opacity: 0.5,
+    rotateY: 45,
+    physicalHeight: 0.2,
+    physicalWidth: 0.2,
+    physicalDepth: 0.2,
+    color: '#FFFFFF',
+  },
+  {
+    coords: { x: 1.3, y: -0.5, z: 1.3 }, // relative to stepbase
+    height: 0.0,
+    opacity: 0.5,
+    rotateY: 225,
+    physicalHeight: 0.2,
+    physicalWidth: 0.2,
+    physicalDepth: 0.2,
+    color: '#FFFFFF',
+  },
+  {
+    coords: { x: -1.3, y: -0.5, z: 1.3 }, // relative to stepbase
+    height: 0.0,
+    opacity: 0.5,
+    rotateY: 135,
+    physicalHeight: 0.2,
+    physicalWidth: 0.2,
+    physicalDepth: 0.2,
+    color: '#FFFFFF',
+  },
+  {
+    coords: { x: 0, y: 0, z: 2 }, // relative to stepbase
+    height: 1.4,
+    opacity: 0.5,
+    rotateY: 180,
+    physicalHeight: 0.2,
+    physicalWidth: 0.2,
+    physicalDepth: 0.2,
+    color: '#FFFFFF',
+  },
+  {
+    coords: { x: -2, y: 0, z: 2 }, // relative to stepbase
+    height: 1.4,
+    opacity: 0.5,
+    rotateY: 135,
+    physicalHeight: 0.2,
+    physicalWidth: 0.2,
+    physicalDepth: 0.2,
+    color: '#FFFFFF',
+  },
+  {
+    coords: { x: 2, y: 0, z: -2 }, // relative to stepbase
+    height: 1.4,
+    opacity: 0.5,
+    rotateY: 315,
+    physicalHeight: 0.2,
+    physicalWidth: 0.2,
+    physicalDepth: 0.2,
+    color: '#FFFFFF',
+  },
+  {
+    coords: { x: 2, y: 0, z: 2 }, // relative to stepbase
+    height: 1.4,
+    opacity: 0.5,
+    rotateY: 225,
+    physicalHeight: 0.2,
+    physicalWidth: 0.2,
+    physicalDepth: 0.2,
+    color: '#FFFFFF',
+  },
+  {
+    coords: { x: 0, y: 0, z: -2 }, // relative to stepbase
+    height: 1.4,
+    opacity: 0.5,
+    rotateY: 0,
+    physicalHeight: 0.2,
+    physicalWidth: 0.2,
+    physicalDepth: 0.2,
+    color: '#FFFFFF',
+  },
+  {
+    coords: { x: -2, y: 0, z: -2 }, // relative to stepbase
+    height: 1.4,
+    opacity: 0.5,
+    rotateY: 45,
+    physicalHeight: 0.2,
+    physicalWidth: 0.2,
+    physicalDepth: 0.2,
+    color: '#FFFFFF',
+  },
+  {
+    coords: { x: 2, y: 0, z: 0 }, // relative to stepbase
+    height: 1.4,
+    opacity: 0.5,
+    rotateY: 270,
+    physicalHeight: 0.2,
+    physicalWidth: 0.2,
+    physicalDepth: 0.2,
+    color: '#FFFFFF',
+  },
+  {
+    coords: { x: -2, y: 0, z: 0 }, // relative to stepbase
+    height: 1.4,
+    opacity: 0.5,
+    rotateY: 90,
+    physicalHeight: 0.2,
+    physicalWidth: 0.2,
+    physicalDepth: 0.2,
+    color: '#FFFFFF',
+  }
+]

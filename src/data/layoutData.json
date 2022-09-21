@@ -1,0 +1,236 @@
+[
+  {
+    objects: {
+      swim: {
+        type: 'text',
+        coords: { x: 0, y: 0, z: -3 }, // relative to stepbase
+        height: -0.5,
+        opacity: 0.5,
+        rotateY: 0,
+        text: 'nadar', //swim
+        selected: false
+      },
+      speak: {
+        type: 'text',
+        coords: { x: 0, y: 0, z: -3 }, // relative to stepbase
+        height: 1.4,
+        opacity: 0.5,
+        rotateY: 0,
+        text: 'hablar', //speak
+        selected: false
+      },
+      run: {
+        type: 'text',
+        coords: { x: -3, y: 0, z: 0 }, // relative to stepbase
+        height: 0.0,
+        opacity: 0.5,
+        rotateY: 90,
+        text: 'correr', //run
+        selected: false
+      },
+      sleep: {
+        type: 'text',
+        coords: { x: 4, y: 0, z: 3 }, // relative to stepbase
+        height: 0.0,
+        opacity: 0.5,
+        rotateY: 225,
+        text: 'dormir', //sleep
+        selected: false
+      },
+      cook: {
+        type: 'text',
+        coords: { x: 3, y: 0, z: 3 }, // relative to stepbase
+        height: 0.0,
+        opacity: 0.5,
+        rotateY: 225,
+        text: 'cocinar', //cook
+        selected: false
+      },
+      run: {
+        type: 'image',
+        coords: { x: -3, y: 0, z: -3 }, // relative to stepbase
+        physicalHeight: 1,
+        physicalWidth: 1,
+        height: 1,
+        rotateY: 45,
+        opacity: 0.5,
+        borderWidth: 0.0,
+        selected: false
+      },
+      drink: {
+        type: 'box',
+        coords: { x: 1, y: 0, z: -1 }, // relative to stepbase
+        physicalHeight: 0.2,
+        physicalWidth: 0.2,
+        physicalDepth: 0.2,
+        color: '#FFFFFF',
+        opacity: 0.5,
+        selected: false
+      }
+    },
+    stepbase: {
+      coords: { x: 0, y: 0, z: 0 },
+      floorcolor: '#ff0000',
+      directions: 'Create a Lesson.  1 image + 4 text.'
+    },
+    answer: [
+      'drink', 'run'
+    ]
+  },
+  {
+    objects: {
+      swim: {
+        type: 'text',
+        coords: { x: 0, y: 0, z: -3 }, // relative to stepbase
+        height: -0.5,
+        opacity: 0.5,
+        rotateY: 0,
+        text: 'nadar', //swim
+        selected: false
+      },
+      speak: {
+        type: 'text',
+        coords: { x: 0, y: 0, z: -3 }, // relative to stepbase
+        height: 1.4,
+        opacity: 0.5,
+        rotateY: 0,
+        text: 'hablar', //speak
+        selected: false
+      },
+      run: {
+        type: 'text',
+        coords: { x: -3, y: 0, z: 0 }, // relative to stepbase
+        height: 0.0,
+        opacity: 0.5,
+        rotateY: 90,
+        text: 'correr', //run
+        selected: false
+      },
+      sleep: {
+        type: 'text',
+        coords: { x: 4, y: 0, z: 3 }, // relative to stepbase
+        height: 0.0,
+        opacity: 0.5,
+        rotateY: 225,
+        text: 'dormir', //sleep
+        selected: false
+      },
+      cook: {
+        type: 'text',
+        coords: { x: 3, y: 0, z: 3 }, // relative to stepbase
+        height: 0.0,
+        opacity: 0.5,
+        rotateY: 225,
+        text: 'cocinar', //cook
+        selected: false
+      },
+      run: {
+        type: 'image',
+        coords: { x: -3, y: 0, z: -3 }, // relative to stepbase
+        physicalHeight: 1,
+        physicalWidth: 1,
+        height: 1,
+        rotateY: 45,
+        opacity: 0.5,
+        borderWidth: 0.0,
+        selected: false
+      },
+      drink: {
+        type: 'box',
+        coords: { x: 1, y: 0, z: -1 }, // relative to stepbase
+        physicalHeight: 0.2,
+        physicalWidth: 0.2,
+        physicalDepth: 0.2,
+        color: '#FFFFFF',
+        opacity: 0.5,
+        selected: false
+      }
+    },
+    stepbase: {
+      coords: { x: 0, y: 0, z: -15 },
+      floorcolor: '#00ff00',
+      directions: 'Create a Lesson.  1 image + 4 text.'
+    },
+    answer: [
+      'drink', 'run'
+    ]
+  },
+  {
+    objects: {
+      swim: {
+        type: 'text',
+        coords: { x: 0, y: 0, z: -3 }, // relative to stepbase
+        height: -0.5,
+        opacity: 0.5,
+        rotateY: 0,
+        text: 'nadar', //swim
+        selected: false
+      },
+      speak: {
+        type: 'text',
+        coords: { x: 0, y: 0, z: -3 }, // relative to stepbase
+        height: 1.4,
+        opacity: 0.5,
+        rotateY: 0,
+        text: 'hablar', //speak
+        selected: false
+      },
+      run: {
+        type: 'text',
+        coords: { x: -3, y: 0, z: 0 }, // relative to stepbase
+        height: 0.0,
+        opacity: 0.5,
+        rotateY: 90,
+        text: 'correr', //run
+        selected: false
+      },
+      sleep: {
+        type: 'text',
+        coords: { x: 4, y: 0, z: 3 }, // relative to stepbase
+        height: 0.0,
+        opacity: 0.5,
+        rotateY: 225,
+        text: 'dormir', //sleep
+        selected: false
+      },
+      cook: {
+        type: 'text',
+        coords: { x: 3, y: 0, z: 3 }, // relative to stepbase
+        height: 0.0,
+        opacity: 0.5,
+        rotateY: 225,
+        text: 'cocinar', //cook
+        selected: false
+      },
+      run: {
+        type: 'image',
+        coords: { x: -3, y: 0, z: -3 }, // relative to stepbase
+        physicalHeight: 1,
+        physicalWidth: 1,
+        height: 1,
+        rotateY: 45,
+        opacity: 0.5,
+        borderWidth: 0.0,
+        selected: false
+      },
+      drink: {
+        type: 'box',
+        coords: { x: 1, y: 0, z: -1 }, // relative to stepbase
+        physicalHeight: 0.2,
+        physicalWidth: 0.2,
+        physicalDepth: 0.2,
+        color: '#FFFFFF',
+        opacity: 0.5,
+        selected: false
+      }
+    },
+    stepbase: {
+      coords: { x: 0, y: 0, z: -30 },
+      floorcolor: '#0000ff',
+      directions: 'Create a Lesson.  1 image + 4 text.'
+    },
+    answer: [
+      'drink', 'run'
+    ]
+  }
+]
